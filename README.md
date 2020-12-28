@@ -1,0 +1,1 @@
+[![CircleCI](https://circleci.com/gh/KalyniukV/mssc-beer-inventory-service.svg?style=svg)](https://circleci.com/gh/KalyniukV/mssc-beer-inventory-service)
