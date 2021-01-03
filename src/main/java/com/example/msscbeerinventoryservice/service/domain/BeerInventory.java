@@ -1,4 +1,4 @@
-package com.example.msscbeerinventoryservice.domain;
+package com.example.msscbeerinventoryservice.service.domain;
 
 import lombok.Builder;
 import lombok.Getter;

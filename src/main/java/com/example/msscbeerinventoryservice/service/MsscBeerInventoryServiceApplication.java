@@ -1,4 +1,4 @@
-package com.example.msscbeerinventoryservice;
+package com.example.msscbeerinventoryservice.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
