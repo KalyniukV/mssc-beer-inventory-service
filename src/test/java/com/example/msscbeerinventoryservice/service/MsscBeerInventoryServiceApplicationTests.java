@@ -1,4 +1,4 @@
-package com.example.msscbeerinventoryservice;
+package com.example.msscbeerinventoryservice.service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
