@@ -1,6 +1,6 @@
 package com.example.msscbeerinventoryservice.service.services;
 
-import com.example.common.events.NewInventoryEvent;
+import com.example.model.events.NewInventoryEvent;
 import com.example.msscbeerinventoryservice.service.config.JmsConfig;
 import com.example.msscbeerinventoryservice.service.domain.BeerInventory;
 import com.example.msscbeerinventoryservice.service.repositories.BeerInventoryRepository;

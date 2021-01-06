@@ -2,7 +2,7 @@ package com.example.msscbeerinventoryservice.service.web.controllers;
 
 import com.example.msscbeerinventoryservice.service.repositories.BeerInventoryRepository;
 import com.example.msscbeerinventoryservice.service.web.mappers.BeerInventoryMapper;
-import com.example.msscbeerinventoryservice.service.web.model.BeerInventoryDto;
+import com.example.model.BeerInventoryDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;

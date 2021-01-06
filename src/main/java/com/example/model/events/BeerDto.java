@@ -1,4 +1,4 @@
-package com.example.common.events;
+package com.example.model.events;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.AllArgsConstructor;
