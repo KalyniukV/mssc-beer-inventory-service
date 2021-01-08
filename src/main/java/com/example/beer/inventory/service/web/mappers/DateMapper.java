@@ -1,4 +1,4 @@
-package com.example.msscbeerinventoryservice.service.web.mappers;
+package com.example.beer.inventory.service.web.mappers;
 
 import org.springframework.stereotype.Component;
 

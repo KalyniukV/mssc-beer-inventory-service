@@ -1,6 +1,6 @@
-package com.example.msscbeerinventoryservice.service.repositories;
+package com.example.beer.inventory.service.repositories;
 
-import com.example.msscbeerinventoryservice.service.domain.BeerInventory;
+import com.example.beer.inventory.service.domain.BeerInventory;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
